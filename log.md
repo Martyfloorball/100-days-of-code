@@ -6,6 +6,23 @@
 
 **Thoughts:** I had it easy with the syntax of HTML. 
 
+### Day 2: Juli 19, 2018
+
+**Today's Progress**: Started learning about CSS.
+
+**Thoughts:** CSS is very fun and a great way really see the changes you can make on the style of the website.
+
+### Day 3: Juli 20, 2018
+
+**Note:** I had to skip this day, because I had to use my whole day on helping out with a wedding. 
+
+### Day 4: Juli 21, 2018
+
+**Today's Progress**: Made a very basic blockchain.
+
+**Thoughts:** I've gotten a better understanding on how you create a blockchain and what Proof Of Work is. 
+
+**Link to article**: [Creating Your First Blockchain with Java. Part 1.](https://medium.com/programmers-blockchain/create-simple-blockchain-java-tutorial-from-scratch-6eeed3cb03fa)
 
 # EXAMPLES
 ### Day 0: February 30, 2016 (Example 2)
