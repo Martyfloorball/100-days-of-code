@@ -1,22 +1,30 @@
 # 100 Days Of Code - Log
 
-### Day 1: Juli 18, 2018
+### Day 1: Juli 19, 2018
 
 **Today's Progress**: Learning the Basic HTML and HTML5 at freeCodeCamp.org
 
 **Thoughts:** I had it easy with the syntax of HTML. 
 
-### Day 2: Juli 19, 2018
+### Day 2: Juli 20, 2018
 
 **Today's Progress**: Started learning about CSS.
 
 **Thoughts:** CSS is very fun and a great way really see the changes you can make on the style of the website.
 
-### Day 3: Juli 20, 2018
+### Day 3: Juli 21, 2018
 
 **Note:** I had to skip this day, because I had to use my whole day on helping out with a wedding. 
 
-### Day 4: Juli 21, 2018
+### Day 4: Juli 22, 2018
+
+**Today's Progress**: Dived a little more into the basics of CSS. I also finished a course about Java Collections on Pluralsight.com.
+
+**Thoughts:** It's nice that you can use Java Collections to any of your problem solving. It gives you all kind of tools for you handle your code. There's things like Maps, Sets and Lists. 
+
+**Link to article**: [Java Fundamentals: Collections](https://app.pluralsight.com/library/courses/java-fundamentals-collections/table-of-contents)
+
+### Day 5: Juli 23, 2018
 
 **Today's Progress**: Made a very basic blockchain.
 
@@ -24,23 +32,16 @@
 
 **Link to article**: [Creating Your First Blockchain with Java. Part 1.](https://medium.com/programmers-blockchain/create-simple-blockchain-java-tutorial-from-scratch-6eeed3cb03fa)
 
-# EXAMPLES
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 6: Juli 24, 2018
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Completed a Java algorithm challenge.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** It was nice to solve the algorithm challenge. 
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link to article**: [[2018-04-23] Challenge #358 [Easy] Decipher The Seven Segments](https://www.reddit.com/r/dailyprogrammer/comments/8eger3/20180423_challenge_358_easy_decipher_the_seven/)
 
+### Day 7: Juli 25, 2018
 
-### Day 1: June 27, Monday
+**Today's Progress**: Finished the 'Basic CSS' at freeCodeCamp.org
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Thoughts:** Still quite easy, but hey I want to learn CSS from scratch. All the CSS I know of is from my school mates. I want to know more. I'm exited to learn about css flexbox and css grid.
